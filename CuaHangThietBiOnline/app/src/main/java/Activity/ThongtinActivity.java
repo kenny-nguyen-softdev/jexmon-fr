@@ -52,7 +52,7 @@ public class ThongtinActivity extends AppCompatActivity implements OnMapReadyCal
     public void onMapReady(GoogleMap googleMap) {
         try {
             mMap = googleMap;
-            LatLng latLng = new LatLng(21.026856264101458, 105.770804563809);
+            LatLng latLng = new LatLng(10.851938119375877, 106.7731087758539);
             float zoom = 30;
             googleMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
             mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, zoom));
