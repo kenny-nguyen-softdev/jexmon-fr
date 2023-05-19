@@ -1,7 +1,7 @@
 package until;
 
 public class Server {
-    public static String localhost = "207.148.76.121";
+    public static String localhost = "172.17.20.35";
     public static String Đuonganloaisp = "http://" + localhost + "/jexmon-bk/getloaisp.php";
     public static String Đuongấnnphammoinhat = "http://" + localhost + "/jexmon-bk/getsanpham.php";
     public static String Đuongandienthoai = "http://" + localhost + "/jexmon-bk/gettheosp.php?page=";
