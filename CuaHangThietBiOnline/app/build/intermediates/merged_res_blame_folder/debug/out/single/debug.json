@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_dong_laptop.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/dong_laptop.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_map_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_map_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/menu_main_nav.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/menu/main_nav.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_main_nav_header.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/main_nav_header.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_laptop.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_laptop.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_iconemail.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/iconemail.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_mappp.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/mappp.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_diachi.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/diachi.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_boder.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/boder.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_iconphone.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/iconphone.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_dong_sanphammoinnhat.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/dong_sanphammoinnhat.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_processbar.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/processbar.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_chitietsanpham.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_chitietsanpham.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_main_nav_headr_bg.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/main_nav_headr_bg.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_thongtinnguoidung.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_thongtinnguoidung.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_loadding.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/loadding.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/anim_slide_in_right.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_iconnew.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/iconnew.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_dienthoai.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_dienthoai.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/menu_menugiohang.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/menu/menugiohang.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_phone_iphone_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_phone_iphone_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_user.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/user.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_radius_circle.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/radius_circle.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_iconcart1.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/iconcart1.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_bgrou.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/bgrou.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_dong_listview_loaisp.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/dong_listview_loaisp.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_dong_sanpham_giohang.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/dong_sanpham_giohang.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_spinner.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/spinner.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_error.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/error.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_giohang.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/giohang.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_login_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_login_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_shadow.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/shadow.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_storage_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_storage_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_human.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/human.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_regsiter.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/regsiter.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_navigate_before_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_navigate_before_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_cartgiohang.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/cartgiohang.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_user_profile.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/user_profile.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_login.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_laptop_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_laptop_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_lienhe.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/lienhe.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_ccc.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/ccc.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_outline_shopping_cart_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/outline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_cart.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/cart.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_thongtin.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/thongtin.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_border_bottom.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/border_bottom.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_giohang.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_giohang.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_thongtin.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_thongtin.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_cartgiohang2.jpg.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/cartgiohang2.jpg"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/anim_slide_out_right.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_radius.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/radius.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable_baseline_call_24.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable/baseline_call_24.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/drawable-v24_tranhchinh.png.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/drawable-v24/tranhchinh.png"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_dong_dienthoai.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/dong_dienthoai.xml"
+    },
+    {
+        "merged": "com.example.cuahangthietbionline.app-merged_res-25:/layout_activity_storage.xml.flat",
+        "source": "com.example.cuahangthietbionline.app-main-27:/layout/activity_storage.xml"
+    }
+]
